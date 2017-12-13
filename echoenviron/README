@@ -1,0 +1,16 @@
+This is a small tool which can echo some shell environments.
+
+Your can type in more than one arguments at once.
+
+Use "-help" argument for more use guide.
+
+Execution looks like this:
+$ make
+$ ./echoenviron -help
+.
+.
+.
+$ ./echoenviron HOME SHELL
+HOME : /Users/xx
+SHELL : /bin/bash
+$
