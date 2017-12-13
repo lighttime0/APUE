@@ -1,0 +1,10 @@
+This is a small tool which can echo all arguments passed to the program.
+
+Run in Unix or Linux.
+
+Execution looks like this:
+$ make
+$ ./echoargs argv1
+argv[0]: ./echoargs
+argv[1]: argv1
+$
